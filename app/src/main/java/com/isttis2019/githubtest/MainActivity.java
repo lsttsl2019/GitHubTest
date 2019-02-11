@@ -12,5 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
         getSupportActionBar().setTitle("Hello Android!!");
         
+        //GitHub에서 데이터가 변경.....
+        
+        
     }
 }
